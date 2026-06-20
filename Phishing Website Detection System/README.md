@@ -59,10 +59,6 @@ A reliable automated detection system is needed to help users identify malicious
 
 
 
-\## 🏗️ System Architecture
-
-
-
 !\[Architecture](images/architecture.png)
 
 
@@ -105,7 +101,7 @@ A reliable automated detection system is needed to help users identify malicious
 
 
 
-git clone https://github.com/yourusername/phishing-website-detection.git
+git clone https://github.com/PAVANI-MYNAM/phishing_website_detection
 
 
 
