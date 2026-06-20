@@ -40,16 +40,13 @@ A reliable automated detection system is needed to help users identify malicious
 
 📸 Application Screenshots
 ### Home Page
-
-![Home Page](images/homepage.png)
+![Home Page](Phishing Website Detection System/images/homepage.png)
 
 ### Legitimate Website Prediction
-
-![Legitimate Result](images/legitimate_result.png)
+![Legitimate Result](Phishing Website Detection System/images/legitimate_result.png)
 
 ### Phishing Website Prediction
-
-![Phishing Result](images/phishing_result.png)
+![Phishing Result](Phishing Website Detection System/images/phishing_result.png)
 
 ▶️ How to Run the Project
 Clone Repository
