@@ -66,28 +66,14 @@ A reliable automated detection system is needed to help users identify malicious
 ### 📸 Application Screenshots
 
 
+### Home Page
+![Home Page](Phishing Website Detection System/images/homepage.png)
 
-\### Home Page
+### Legitimate Website Prediction
+![Legitimate Result](Phishing Website Detection System/images/legitimate_result.png)
 
-
-
-!\[Home Page](images/homepage.png)
-
-
-
-\### Legitimate Website Prediction
-
-
-
-!\[Legitimate Result](images/legitimate\_result.png)
-
-
-
-\### Phishing Website Prediction
-
-
-
-!\[Phishing Result](images/phishing\_result.png)
+### Phishing Website Prediction
+![Phishing Result](Phishing Website Detection System/images/phishing_result.png)
 
 
 
