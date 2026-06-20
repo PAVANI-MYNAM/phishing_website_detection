@@ -1,10 +1,11 @@
-Phishing Website Detection System
-📌 Project Overview
+**Phishing Website Detection System**
+
+**📌 Project Overview**
 Phishing websites are designed to steal sensitive user information such as passwords, banking details, and personal data by mimicking legitimate websites. Traditional detection methods often struggle to identify newly created phishing websites.
 
 This project presents a Machine Learning-based Phishing Website Detection System that analyzes URL characteristics and predicts whether a website is legitimate or phishing in real time through a web application.
 
-🚨 Problem Statement
+**🚨 Problem Statement**
 Cybercriminals create fraudulent websites that appear identical to trusted websites. Users often find it difficult to distinguish between genuine and phishing websites, resulting in:
 
 Identity theft
@@ -13,7 +14,7 @@ Data breaches
 Unauthorized account access
 A reliable automated detection system is needed to help users identify malicious websites before interacting with them.
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 | Technology | Purpose |
 
 | ------------- | ------------------------------------- |
@@ -66,7 +67,7 @@ python app.py
 Open Browser
 http://localhost:5000
 
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 Deep Learning-based phishing detection.
 
 Browser extension integration.
@@ -83,7 +84,7 @@ Detection of QR-code phishing attacks.
 
 Mobile application support.
 
-👩‍💻 Author
+**👩‍💻 Author**
 Pavani Mynam
 
 B.Tech – Computer Science & Engineering
